@@ -34,9 +34,9 @@
     "vite-tsconfig-paths": "^5.1.4",
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://github.com/dashboard",
+  "homepage": "https://FHYUYO.github.io/FUYUYO",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FHYUYO/FUYUYO"
+    "url": "https://github.com/FHYUYO/FUYUYO.git"
   }
 }
